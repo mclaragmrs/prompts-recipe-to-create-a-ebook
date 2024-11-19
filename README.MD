@@ -25,35 +25,24 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Ideogram](https://www.ideogram.ai/)
+- [Canva](https://www.canva.com/)
 
 ## 🧠 Prompts
 
 
-ChatGPT：
-
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
-
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+ChatGPT	Geração de conteúdo textual para o eBook.	"Crie um texto sobre mudanças climáticas explicando suas causas, impactos e soluções, com linguagem clara e objetiva, e títulos sugestivos para cada tópico."
+Canva	Desenvolvimento visual do eBook.	"Crie um design visualmente atrativo para um eBook sobre mudanças climáticas, com gráficos explicativos, ilustrações temáticas e uma paleta de cores harmônica."
+Ideogram	Geração de imagens customizadas relacionadas a mudanças climáticas.	"Crie imagens impactantes para tópicos como emissões de gases de efeito estufa, desmatamento e soluções climáticas, com detalhes visuais que facilitem a compreensão."
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via ideogram
 
 ## 📚 Materiais
 
